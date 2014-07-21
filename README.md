@@ -4,6 +4,10 @@ A simple, configurable API client for [trollemipsum.appspot.com](http://trollemi
 
 ### Usage
 
+First, require the library:
+
+    require 'ruby_trollem_ipsum'
+
 One-liner:
 
     TrollemIpsum.lorem    # => "Flash sucks, during delay in getting Ice Cream Sandwich what gorgeous."
